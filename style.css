@@ -1,0 +1,13 @@
+html {
+  margin: 0;
+  padding: 0;
+  background: #e6e6e6;
+}
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+  background: white;
+}
+[component-cloak] {
+  display: none;
+}
