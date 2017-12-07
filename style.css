@@ -9,5 +9,5 @@ body {
   background: white;
 }
 [v-cloak] {
-  display: none;
+  display: none; 
 }
