@@ -8,6 +8,6 @@ body {
   margin: 0 auto;
   background: white;
 }
-[component-cloak] {
+[v-cloak] {
   display: none;
 }
